@@ -73,6 +73,7 @@ To ensure transparency and reproducibility, all implementation details and exper
 1- Alzubair Alqaraghuli
 - PhD Student – Computer Science
 - Specialization: Deep Learning & Medical Imaging
+
 2- Serkan Ozturk
 
 ## 📜 License
